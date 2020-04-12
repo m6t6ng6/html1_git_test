@@ -1,0 +1,75 @@
+h1 {
+    color: #16a085;
+    /* text-align: center; */
+}
+
+h3 {
+    color: #1abc9c;
+}
+
+button {
+    color: #95a5a6;
+    width: 200px;
+    height: 100px;
+}
+
+/* #label_nombre {
+    text-align: center;
+    color: red;
+} */
+
+/* #label_apellido {
+    text-align: center;
+    color: yellow;
+} */
+
+/* div {
+    background-color: #bdc3c7;
+} */
+
+body {
+    background-color: #ecf0f1;
+    text-align: center;
+}
+
+/* #parrafo {
+    background-color: #9b59b6;
+    text-align: center;
+    color: #2c3e50;
+} */
+
+#icono_formulario {
+    width: 100px;
+    height: 200px;
+}
+
+#icono_genero {
+    width: 100px;
+    height: 200px;
+}
+
+#icono_estudio {
+    width: 100px;
+    height: 200px;
+}
+
+#icono_mantenimiento {
+    width: 100px;
+    height: 200px;
+}
+
+/* #div_formulario {
+    background-color: #34495e;
+} */
+
+/* #div_genero {
+    background-color: #34495e;
+} */
+
+/* #div_estudio {
+    background-color: #34495e;
+} */
+
+/* #div_boton {
+    background-color: #34495e;
+} */
